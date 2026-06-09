@@ -1,6 +1,6 @@
 ## Sejam Bem-Vindos ao Meu Mundo!
 
-![texto da imagem](https://media.istockphoto.com/id/943855940/pt/foto/future-and-programming-concept.jpg?s=1024x1024&w=is&k=20&c=hPCZnJI0SWCxQ7xxOC1X9XmFZAk9wfmDnETwEMe6W04=)
+![texto da imagem](https://tse3.mm.bing.net/th/id/OIP.pGTxH7-3zZDl7HdFeqQ0SQHaEJ?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 🐺 Olá, me chamo Rodrigo Pires, sou estudante de Análise e Desenvolvimento de Sistemas, e estou no primeiro semestre.
 
