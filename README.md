@@ -1,6 +1,6 @@
 ## Sejam Bem-Vindos ao Meu Mundo!
 
-![texto da imagem](https://media.istockphoto.com/id/1683114913/pt/vetorial/concept-of-computer-programming-languages-or-developing-software-vector-cartoon.jpg?s=170667a&w=0&k=20&c=ZUWrfFsAlBvpKu4O5Am445O9Mi6UYJqg-zbS0ErpbNk=)
+![texto da imagem](https://media.istockphoto.com/id/943855940/pt/foto/future-and-programming-concept.jpg?s=1024x1024&w=is&k=20&c=hPCZnJI0SWCxQ7xxOC1X9XmFZAk9wfmDnETwEMe6W04=)
 
 🐺 Olá, me chamo Rodrigo Pires, sou estudante de Análise e Desenvolvimento de Sistemas, e estou no primeiro semestre.
 
