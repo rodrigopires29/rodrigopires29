@@ -7,7 +7,7 @@
 
 👻 Atualmente trabalho como entregador, mas pretendo em breve ingressar no mundo da tecnologia.
 -------
-[![Rodrigo Pires GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopires29_icons=true&theme=dracula)
+[![Rodrigo Pires GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopires29=true&theme=dracula)
 
 
 
