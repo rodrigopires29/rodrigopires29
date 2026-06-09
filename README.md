@@ -1,4 +1,21 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo!
+
+![texto da imagem](https://media.istockphoto.com/id/1683114913/pt/vetorial/concept-of-computer-programming-languages-or-developing-software-vector-cartoon.jpg?s=170667a&w=0&k=20&c=ZUWrfFsAlBvpKu4O5Am445O9Mi6UYJqg-zbS0ErpbNk=)
+
+🐺 Olá, me chamo Rodrigo Pires, sou estudante de Análise e Desenvolvimento de Sistemas, e estou no primeiro semestre.
+
+👻 Atualmente trabalho como entregador, mas pretendo em breve ingressar no mundo da tecnologia.
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **rodrigopires29/rodrigopires29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
